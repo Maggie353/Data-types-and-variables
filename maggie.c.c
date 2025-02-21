@@ -1,4 +1,6 @@
-
+//
+STUDENT NAME: MARGARET SHISIA
+ADMISSION NUMBER: D33-2458-2023
 #include<stdio.h>
 
 int main(){
