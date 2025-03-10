@@ -1,6 +1,7 @@
 /*
 for loops
-name: Wendo Rowland 
+name: Margaret shisia shikanda
+adm no; D33-2458-2023
 */
 #include<stdio.h>
 int main () {
