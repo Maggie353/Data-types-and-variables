@@ -1,5 +1,5 @@
 /*
-do while
+do while loop
 name: Margaret Shikanda
 ADMISSION:D33-2458-2023
 BMS 201
