@@ -1,7 +1,7 @@
 /*
 while loop
-name: WENDO ROWLAND 
-ADMISSION:D33-0263-2022 
+name: Margaret shisia
+ADMISSION:D33-2458-2023
 BMS 201
 */
 #include<stdio.h>
